@@ -1,4 +1,4 @@
-# Online-Liars-Dice
+# Online_multiplayer_Liars_Dice
 An online multiplayer game of Liar's Dice
 
 Click this link to view this project: https://github.com/CodingPerudo/rudo
