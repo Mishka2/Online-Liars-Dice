@@ -7,3 +7,5 @@ Click this link to view this project: https://github.com/CodingPerudo/rudo
 
 
 ![alt text](https://github.com/Mishka2/online_multiplayer_liars_dice/blob/master/rudo_light.png?raw=true)
+
+![alt text](https://github.com/Mishka2/online_multiplayer_liars_dice/blob/master/rudo_dark.png?raw=true)
